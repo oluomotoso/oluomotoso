@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **oluomotoso/oluomotoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 About Me
 
 I am Olumide Omotoso, a Full-stack Developer and a Top Rated [Turing](https://turing.com) and [Andela](https://andela.com) Engineer. I have a Bachelors degree in Materials Science and Engineering, I graduated in 2014.
